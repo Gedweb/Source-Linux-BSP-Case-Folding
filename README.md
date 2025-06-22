@@ -13,7 +13,7 @@ Please read [this](https://github.com/craftablescience/VPKEdit/blob/main/INSTALL
 
 ### Clone the repository
 ```shell
-git clone https://github.com/yourusername/bsp-extractor.git
+git clone https://github.com/Gedweb/Source-Linux-BSP-Case-Folding.git bsp-extractor
 cd bsp-extractor
 ```
 
